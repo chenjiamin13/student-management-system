@@ -1,5 +1,5 @@
 #include "sims_public.h"
-.
+
 int admin_op(struct admin_data *padmin,struct teacher_link *ptlink)
 {
 	int op = -1;
